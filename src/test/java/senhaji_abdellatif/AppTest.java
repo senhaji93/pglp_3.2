@@ -1,4 +1,4 @@
-package uvsq21506615;
+package senhaji_abdellatif;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

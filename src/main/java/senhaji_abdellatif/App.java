@@ -1,9 +1,6 @@
-package uvsq21506615;
+package senhaji_abdellatif;
 
-/**
- * Hello world!
- *
- */
+
 public class App 
 {
     public static void main( String[] args )

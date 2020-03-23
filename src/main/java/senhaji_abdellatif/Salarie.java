@@ -1,5 +1,4 @@
-package uvsq21506615;
-
+package senhaji_abdellatif;
 public interface Salarie {
 	double calculSalaire();
 }
